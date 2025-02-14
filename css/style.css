@@ -1,10 +1,10 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Poppins, sans-serif;
     font-size: 18px;
 }
 
 header, footer {
-    background-color: #333;
+    background-color: #0B8CFF;
     color: white;
     text-align: center;
     padding: 15px;
@@ -22,7 +22,7 @@ ul {
 }
 
 ul li:nth-child(odd) {
-    background-color: #f2f2f2;
+    background-color: #d2ebff;
 }
 
 nav ul {
@@ -35,12 +35,12 @@ nav a {
     color: white;
     padding: 10px;
     display: inline-block;
-    background-color: #555;
+    background-color: #1068c1;
     border: 1px solid white;
     border-radius: 5px;
     }
 
 nav a:hover, nav a:focus {
-    background-color: #ff6600;
+    background-color: #d2ebff;
     color: black;
 }
